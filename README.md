@@ -51,8 +51,8 @@ The API will return the following fields: `city`, `condition`, `icon`, `descript
 
 ### The API:
 
-The base url of the API is: `base_url`
-<br >**Eg.:** GET `base_url/weather`
+The base url of the API is: `base_url` = `https://backend-interview-sydney.tools.gcp.viesure.io`
+<br >**Eg.:** GET `https://backend-interview-sydney.tools.gcp.viesure.io/weather`
 
 **GET .../weather**
 * You can fetch the endpoint through  `{base_url}/weather` with the following data structure:
@@ -115,8 +115,8 @@ using **Cucumber,** **testng** and **Selenium** where needed
     * Java
     * Selenium
     * Maven and POM
-    * BDD and Executed cucumber tests.
-    * Reporting framework of your choice.
+    * BDD and Executed cucumber tests via testNG.
+    * Add a Reporting framework of your choice.
     * You can add any other helper library if you wish
 * Create a README file with some informative description of your project
     * Also include the results of the test report of your scenarios (in the readme)
