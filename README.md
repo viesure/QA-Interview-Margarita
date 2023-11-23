@@ -1,5 +1,5 @@
-# QA-Interview-{Candidate}
-QA Interview assignment project for {Candidate}
+# QA-Interview-Margarita
+QA Interview assignment project for Margarita
 
 
 ## Weather 'application' overview
